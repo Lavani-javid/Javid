@@ -1,1 +1,2 @@
-tring to learn git hub
+trying to learn git hub
+hii hello
